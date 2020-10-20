@@ -1,4 +1,5 @@
-### Koorosh Aslansefat 👋
+### Koorosh Aslansefat 
+----------------------
 
 <!--
 **koo-ec/koo-ec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##
+<p align = 'justified'>I am currently pursuing PhD degree with the University of Hull, Hull, UK, and involving in a project called DREAM: data-driven reliability-centred evolutionary and automated maintenance for offshore wind farms. I am also doing research as a member of the dependable intelligent systems lab.</p>
+
+## Current Projects
+<table style="width:100%">
+  <tr>
+    <th>SafeML</th>
+    <th>SafeNN</th> 
+    <th>SafeIoT</th>
+    <th>HDFT</th>
+  </tr>
+  <tr>
+    <td><a href = "https://github.com/ISorokos/SafeML"><img src="https://github.com/koo-ec/SafeNN/blob/master/Pictures/SafeML_Logo.png" alt="AI safety, machine learning safety, deep learning safety, SafeML, SafeAI, SafeDL"></a></td>
+    <td><img src="https://github.com/koo-ec/SafeDrones/blob/master/Figures/SafeNN_Logo_v2.png" alt="Neural Network Safety Dependability reliability explainability interpretability, AI safety"></td>
+    <td><img src="https://github.com/koo-ec/SafeNN/blob/master/Pictures/SafeIoT_Logo.png" alt="Internet of thing safety, IoT safety, SafeIoT, Safe IoT"></td>
+    <td><a href = "https://github.com/koo-ec/Hierarchical-Dynamic-Fault-Tree"><img src="https://github.com/koo-ec/SafeNN/blob/master/Pictures/HDFT_Logo.png" alt="Dynamic Fault Tree"></a></td>
+  </tr>
+</table>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
