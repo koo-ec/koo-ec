@@ -1,4 +1,4 @@
-### Koorosh Aslansefat 
+### Welcome to My Github Profile
 ----------------------
 
 <!--
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <td><a href = "https://github.com/ISorokos/SafeML"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/SafeML_Logo.png" alt="AI safety, machine learning safety, deep learning safety, SafeML, SafeAI, SafeDL"></a></td>
     <td><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/SafeNN_Logo_v2.png" alt="Neural Network Safety Dependability reliability explainability interpretability, AI safety"></td>
     <td><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/SafeDrones_Logo.png" alt="Drones Safety, UAV Safety, UAV reliability, flying cars dependability"></td>
-    <td><a href = "https://github.com/koo-ec/koo-ec/blob/main/Figures/HDFT_Logo.png"><img src="https://github.com/koo-ec/SafeNN/blob/master/Pictures/HDFT_Logo.png" alt="Dynamic Fault Tree"></a></td>
+    <td><a href = "https://github.com/koo-ec/Hierarchical-Dynamic-Fault-Tree"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/HDFT_Logo.png" alt="Dynamic Fault Tree"></a></td>
   </tr>
 </table>
 
