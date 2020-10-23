@@ -37,15 +37,6 @@ Here are some ideas to get you started:
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
 
-##
-[![koorosh aslansefat][1.1]][1]
-[![koorosh aslansefat][2.1]][2]
-[![koorosh aslansefat][6.1]][6]
+<!-- ## Social Media -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
 
-[1]: http://www.twitter.com/koo_ec
-[2]: http://www.facebook.com/koorosh.aslansefat
-[6]: http://www.github.com/koo-ec
