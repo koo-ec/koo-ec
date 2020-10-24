@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ## Social Media -->
+## Social Media
+[<img align = "left "src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width "22px">][twitter]
 
 
