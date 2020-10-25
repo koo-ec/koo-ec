@@ -39,7 +39,9 @@ Here are some ideas to get you started:
 
 
 ## Social Media
-<a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a>
+<a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a> <a href = "www.linkedin.com/in/koorosh-aslansefat"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Linkedin.png" alt="Koorosh Aslansefat Linkedin" width="22px" ></a>
+
+
 
 
 
