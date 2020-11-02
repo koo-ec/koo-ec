@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##
 <p align = 'justify'>I am currently pursuing PhD degree with the University of Hull, Hull, UK, and involving in a project called DREAM: data-driven reliability-centred evolutionary and automated maintenance for offshore wind farms. I am also doing research as a member of the dependable intelligent systems lab.</p>
 
-## Current Projects
+## ⚗️ Current Research Projects
 <table style="width:100%">
   <tr>
     <th>SafeML</th>
