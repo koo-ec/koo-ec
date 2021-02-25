@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
 
-You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat">Kaggle</a>.
+You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>Kaggle</b></a>.
 
 ## Social Media
 <a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a> 
