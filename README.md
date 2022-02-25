@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ##
-<p align = 'justify'>I am currently pursuing PhD degree with the University of Hull, Hull, UK, and involving in a project called DREAM: data-driven reliability-centred evolutionary and automated maintenance for offshore wind farms. I am also doing research as a member of the dependable intelligent systems lab.</p>
+<p align = 'justify'>I am a research associate at the University of Hull, Hull, UK, and involving in a project called SESAME: Secure and Safe Multi-Robot Systems .The SESAME project is developing advanced technologies that will deliver an open, modular, configurable, model-based approach for the systematic engineering of dependable multi-robot systems. I am also doing research as a member of the dependable intelligent systems lab.</p>
 
 ## ⚗️ Current Research Projects
 <table style="width:100%">
