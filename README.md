@@ -46,4 +46,6 @@ You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>K
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koo.ec2008@gmail.com)](mailto:koo.ec2008@gmail.com)
 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Koo_ec) 
+
 ![](https://komarev.com/ghpvc/?username=koo-ec)
