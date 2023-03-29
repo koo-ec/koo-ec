@@ -38,6 +38,8 @@ In 2021, he became a Research Associate and as a named researcher got a fellowsh
 ##
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=aliasgharheidaricom&theme=vue&hide_border=false)<br/>
+
 You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>Kaggle</b></a>.
 
 ## Social Media
