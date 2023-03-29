@@ -41,11 +41,9 @@ In 2021, he became a Research Associate and as a named researcher got a fellowsh
 You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>Kaggle</b></a>.
 
 ## Social Media
-<a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a> 
+<!-- <a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a> -->
 <a href = "www.linkedin.com/in/koorosh-aslansefat"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Linkedin.png" alt="Koorosh Aslansefat Linkedin" width="22px"></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koo.ec2008@gmail.com)](mailto:koo.ec2008@gmail.com)
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Koo_ec) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koo.ec2008@gmail.com)](mailto:koo.ec2008@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Koo_ec) 
 
 ![](https://komarev.com/ghpvc/?username=koo-ec)
