@@ -44,4 +44,6 @@ You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>K
 <a href = "https://twitter.com/Koo_ec"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Twitter.png" alt="Koorosh Aslansefat Twitter" width="22px" ></a> 
 <a href = "www.linkedin.com/in/koorosh-aslansefat"><img src="https://github.com/koo-ec/koo-ec/blob/main/Figures/Social_Media_Logos/Linkedin.png" alt="Koorosh Aslansefat Linkedin" width="22px"></a>
 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koo.ec2008@gmail.com)](mailto:koo.ec2008@gmail.com)
+
 ![](https://komarev.com/ghpvc/?username=koo-ec)
