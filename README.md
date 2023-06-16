@@ -35,8 +35,10 @@ In 2021, he became a Research Associate and as a named researcher got a fellowsh
   </tr>
 </table>
 
+<!--
 ## Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=koo-ec)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## Contributions
 ![](https://github-readme-streak-stats.herokuapp.com/?user=koo-ec&theme=vue&hide_border=false)<br/>
