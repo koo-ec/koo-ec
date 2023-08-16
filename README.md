@@ -54,3 +54,27 @@ You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>K
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=koo-ec)
+
+- uses: Platane/snk@v3
+  with:
+    # github user name to read the contribution graph from (**required**)
+    # using action context var `github.repository_owner` or specified user
+    github_user_name: ${{ github.koo-ec }}
+
+    # list of files to generate.
+    # one file per line. Each output can be customized with options as query string.
+    #
+    #  supported options:
+    #  - palette:     A preset of color, one of [github, github-dark, github-light]
+    #  - color_snake: Color of the snake
+    #  - color_dots:  Coma separated list of dots color.
+    #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
+    #                 Exactly 5 colors are expected.
+    outputs: |
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+  env:
+    # a github token is required to fetch the contribution calendar from github API
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
