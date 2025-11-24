@@ -41,7 +41,7 @@ In 2021, he became a Research Associate and as a named researcher got a fellowsh
 -->
 
 ## Contributions
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=koo-ec)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=koo-ec)](https://git.io/streak-stats)
 
 ##
 You can find my profile at <a href = "https://www.kaggle.com/kooaslansefat"><b>Kaggle</b></a>.
